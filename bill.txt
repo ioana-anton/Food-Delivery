@@ -1,0 +1,7 @@
+Chitanta comanda: 5
+Data: 02.06.2021
+Ora: 11
+Produs 1: Beef Stock ......26
+Produs 2: Chocolate-Almond Pie ......85
+Produs 3: Beef Stock ......26
+Pret total: 137

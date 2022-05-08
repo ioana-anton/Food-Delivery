@@ -1,0 +1,12 @@
+Orders between 3 and 14
+Order id: 0
+Order id: 1
+Order id: 2
+Order id: 3
+Order id: 4
+Produse comandate mai mult de 3
+{Beef Stock =5}
+Clientii care au comandat mai mult de 2 cu o suma mai mare de 10
+{0=5}
+Comenzi din data de 2
+{2=5}
